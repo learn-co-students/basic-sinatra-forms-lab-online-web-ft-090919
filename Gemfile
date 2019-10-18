@@ -8,7 +8,7 @@ gem 'rack-protection', '~> 2.0', '>= 2.0.1'
 gem 'rake'
 gem 'thin'
 gem 'shotgun'
-gem 'pry'
+gem 'pry-moves'
 gem 'require_all'
 
 group :test do
